@@ -1,5 +1,9 @@
+### ATAK 5.5.1　試験用<br>
+　https://drive.google.com/file/d/1zqcIPbAIZJPkL2ov9_DKfRBCv0tna-pJ/view?usp=sharing
+
 ###WindsAloft 0.1<br>
  Open-Meteroから気象情報を取得できるアプリを開発しました。
+ Winds Aloftのオリジナル情報を取得して処置しています。
 
 ###PushToTalk2 3.1.9<br>
  従来のPushToTalkと異なるアルゴリズムで構築してます。
