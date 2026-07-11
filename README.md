@@ -41,7 +41,7 @@
  音声デバイス制御を再構築し、骨伝導のボタンでPTT制御できます。<br>
  AndroidNSDの制御を全て削除して、相手の認証せずに音声を発信します。<br>
  Mumbleサーバーへの接続は画面のみで処理はしないため、外部サーバーへの接続はしません。<br>
- <img width="2280" height="1080" alt="image" src="https://github.com/user-attachments/assets/439ce868-eb55-422d-8274-3f704043c7f7" />
+<img width="1824" height="864" alt="screen" src="https://github.com/user-attachments/assets/830c98b2-c0ea-4f81-9463-e3b91910480c" />
 
  
 ###<b>ATAK-5.5.1　試験用</b><br>
