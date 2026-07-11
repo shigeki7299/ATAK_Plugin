@@ -7,7 +7,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
  - 気象情報は、WindsAloftなどで公開されている情報の元データから取得します。予測情報を表示することが可能です。<br>
  - 対地高度ＡＧＬと絶対標高ＭＧＬを切り替えて利用が可能です。<br>
 <img width="1824" height="864" alt="screen" src="https://github.com/user-attachments/assets/0dc9b172-c3f7-4612-956c-bfd569840e77" />
-<br>
+<br><br>
 ###<b>RF Design studio</b><br>
  - 電波解析を行うプラグインです。<br>
  <img width="912" height="432" alt="screen全系" src="https://github.com/user-attachments/assets/13c5e9eb-aca9-458d-9a4f-5412f8559fb3" />
