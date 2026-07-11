@@ -1,3 +1,4 @@
+<img width="1824" height="864" alt="screen" src="https://github.com/user-attachments/assets/40732a4b-bf18-49fe-bb26-52a5d68e67d0" />
 ###<b>WindsAloft-0.1</b><br>
  Open-Meteroから<b>気象情報を取得</b>できるアプリを開発しました。<br>
 
@@ -28,7 +29,8 @@
 ###<b>Compass2</b><br>
 　ランドナビゲーション用のコンパス
   位置情報と時刻に応じ変化する<b>真北（TN）</b>と磁北（MN）に対応
- 
+ <img width="1824" height="864" alt="screen" src="https://github.com/user-attachments/assets/6c33b012-edb7-4d05-9b32-5d09add607e6" />
+
 ###<b>PushToTalk2-3.1.9</b><br>
  従来のPushToTalkと異なるアルゴリズムで構築してます。<br>
  音声圧縮を従来の1/6以下にしています。<br>
