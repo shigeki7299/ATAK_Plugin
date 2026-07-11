@@ -34,6 +34,8 @@
 ###<b>Compass2</b><br>
 　ランドナビゲーション用のコンパス
   位置情報と時刻に応じ変化する<b>真北（TN）</b>と磁北（MN）に対応
+  表示のタップで、°→mil→radへ変更、AGL,MGL切り替え表示
+  基準標高を手動で設定した場合は、気圧計で対地高度をシアンで表示します。
  <img width="912" height="432" alt="screen" src="https://github.com/user-attachments/assets/6c33b012-edb7-4d05-9b32-5d09add607e6" />
 
 ###<b>PushToTalk2-3.1.9</b><br>
