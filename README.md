@@ -1,7 +1,7 @@
 
 ###<b>WindsAloft-0.1</b><br>
  Open-Meteroから<b>気象情報を取得</b>できるアプリを開発しました。<br>
-![Uploading screen.png…]()
+<img width="1824" height="864" alt="screen" src="https://github.com/user-attachments/assets/0dc9b172-c3f7-4612-956c-bfd569840e77" />
 
 ###<b>RF Design studio</b><br>
  電波解析を行うプラグインです。計算照合（機能テスト）がまだです。<br>
