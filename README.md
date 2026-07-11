@@ -3,6 +3,9 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 
 ###<b>WindsAloft-0.1</b><br>
  Open-Meteroから<b>気象情報を取得</b>できるアプリを開発しました。<br>
+ Importを選択し、特定のアイコンを選択すると座標から適切なデータを取得します<br>
+ 気象情報は、WindsAloftなどで公開されている情報の元データから取得します。予測情報を表示することが可能です。<br>
+ 対地高度ＡＧＬと絶対標高ＭＧＬを切り替えて利用が可能です。<br>
 <img width="1824" height="864" alt="screen" src="https://github.com/user-attachments/assets/0dc9b172-c3f7-4612-956c-bfd569840e77" />
 
 ###<b>RF Design studio</b><br>
