@@ -36,6 +36,7 @@
  <img width="1824" height="864" alt="screen" src="https://github.com/user-attachments/assets/6c33b012-edb7-4d05-9b32-5d09add607e6" />
 
 ###<b>PushToTalk2-3.1.9</b><br>
+ <b>最大１０つの系を登録して、同時に２系を取り扱いします（多所多系）</b><br>
  従来のPushToTalkと異なるアルゴリズムで構築してます。<br>
  音声圧縮を従来の1/6以下にしています。<br>
  音声デバイス制御を再構築し、骨伝導のボタンでPTT制御できます。<br>
