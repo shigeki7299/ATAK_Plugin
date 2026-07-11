@@ -4,8 +4,11 @@
 <img width="1824" height="864" alt="screen" src="https://github.com/user-attachments/assets/3d079fe2-fead-49f7-a9f5-21134d5177e5" />
 
 ###<b>RF Design studio</b><br>
- 電波解析を行うプラグインです。<br>
- 
+ 電波解析を行うプラグインです。計算照合（機能テスト）がまだです。<br>
+ <img width="1824" height="864" alt="screen全系" src="https://github.com/user-attachments/assets/13c5e9eb-aca9-458d-9a4f-5412f8559fb3" />
+<img width="1824" height="864" alt="screen対向" src="https://github.com/user-attachments/assets/33b4e214-f9a1-4605-9f2a-966d9e34d06b" />
+<img width="1824" height="864" alt="screen電界図" src="https://github.com/user-attachments/assets/b378b7e5-1cb6-4296-a5b9-ae7f360ea714" />
+
 ###<b>Tactical suite（開発中）</b><br>
  ネットワークの監視、捜索、接続を行う。<br>
  ネットワークをMANETによる自動中継を行い、WIFI Direct等で利用が可能<br>
@@ -21,7 +24,8 @@
 
 ###<b>gcs（開発中）</b><br>
  無人機の操縦、飛行計画の転送、３D確認<br>
- 無人機位置の共有<br>
+ 無人機位置の共有<br><img width="1824" height="864" alt="screen電界図" src="https://github.com/user-attachments/assets/35207d22-8461-44ac-bc3f-aaaaf9f6087f" />
+
 
 ###<b>TAK Gateway（未試験）</b><br>
 　ネットワークの監視を行います。AIにより通信状況を監視し、最適通信手段を選択して接続します。
@@ -37,6 +41,8 @@
  音声デバイス制御を再構築し、骨伝導のボタンでPTT制御できます。<br>
  AndroidNSDの制御を全て削除して、相手の認証せずに音声を発信します。<br>
  Mumbleサーバーへの接続は画面のみで処理はしないため、外部サーバーへの接続はしません。<br>
+ <img width="2280" height="1080" alt="image" src="https://github.com/user-attachments/assets/439ce868-eb55-422d-8274-3f704043c7f7" />
+
  
 ###<b>ATAK-5.5.1　試験用</b><br>
 　https://drive.google.com/file/d/1zqcIPbAIZJPkL2ov9_DKfRBCv0tna-pJ/view?usp=sharing<br>
