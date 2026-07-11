@@ -24,7 +24,7 @@
 
 ###<b>gcs（開発中）</b><br>
  無人機の操縦、飛行計画の転送、３D確認<br>
- 無人機位置の共有<br><img width="1824" height="864" alt="screen電界図" src="https://github.com/user-attachments/assets/35207d22-8461-44ac-bc3f-aaaaf9f6087f" />
+ 無人機位置の共有<br>
 
 
 ###<b>TAK Gateway（未試験）</b><br>
