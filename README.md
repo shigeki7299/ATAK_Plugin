@@ -43,7 +43,7 @@
  AndroidNSDの制御を全て削除して、相手の認証せずに音声を発信します。<br>
  Mumbleサーバーへの接続は画面のみで処理はしないため、外部サーバーへの接続はしません。<br>
 <img width="1824" height="864" alt="screen" src="https://github.com/user-attachments/assets/830c98b2-c0ea-4f81-9463-e3b91910480c" />
-<img width="864" height="1824" alt="screen設定" src="https://github.com/user-attachments/assets/aa5a9d18-acfb-4144-9678-2b06e57f151f" width="30%" height="30%" />
+<img width="30%" height="30%" alt="screen設定" src="https://github.com/user-attachments/assets/aa5a9d18-acfb-4144-9678-2b06e57f151f"  />
 
  
 ###<b>ATAK-5.5.1　試験用</b><br>
