@@ -9,7 +9,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 <img width="1824" height="864" alt="screen" src="https://github.com/user-attachments/assets/0dc9b172-c3f7-4612-956c-bfd569840e77" />
 
 ###<b>RF Design studio</b><br>
- - 電波解析を行うプラグインです。計算照合（機能テスト）がまだです。<br>
+ - 電波解析を行うプラグインです。<br>
  <img width="912" height="432" alt="screen全系" src="https://github.com/user-attachments/assets/13c5e9eb-aca9-458d-9a4f-5412f8559fb3" />
 <img width="912" height="432" alt="screen対向" src="https://github.com/user-attachments/assets/33b4e214-f9a1-4605-9f2a-966d9e34d06b" />
 <img width="912" height="432" alt="screen電界図" src="https://github.com/user-attachments/assets/b378b7e5-1cb6-4296-a5b9-ae7f360ea714" />
