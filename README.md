@@ -9,6 +9,13 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
  - 全世界の気象情報を取得できます。
 <img width="1824" height="864" alt="screen" src="https://github.com/user-attachments/assets/0dc9b172-c3f7-4612-956c-bfd569840e77" />
 <br><br>
+###<b>MANET</b><br>
+ - MANETを構成するプラグイン
+ - 現在対応無線 WIFI Awareに対応しており、WIFIのAPなくとも相互に連携してネットワークを構成します。
+ - グループ設定によりネットワークを分離することが可能です。
+ - 将来的にHALWなどの無線機にも対応できる設計のため必要に応じネットワークアダプターを追加できます。[ScreenShot.bmp](https://github.com/user-attachments/files/30009014/ScreenShot.bmp)
+   <br><br>
+
 ###<b>RF Design studio</b><br>
  - 電波解析を行うプラグインです。<br>
  - 電界図、全系通信解析、対向通信、評定図が可能です。<br>
