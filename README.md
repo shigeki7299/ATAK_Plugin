@@ -13,7 +13,10 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
  - MANETを構成するプラグイン
  - 現在対応無線 WIFI Awareに対応しており、WIFIのAPなくとも相互に連携してネットワークを構成します。
  - グループ設定によりネットワークを分離することが可能です。
- - 将来的にHALWなどの無線機にも対応できる設計のため必要に応じネットワークアダプターを追加できます。[ScreenShot.bmp](https://github.com/user-attachments/files/30009014/ScreenShot.bmp)
+ - 将来的にHALWなどの無線機にも対応できる設計のため必要に応じネットワークアダプターを追加できます。
+   [ScreenShot.bmp](https://github.com/user-attachments/files/30009056/ScreenShot.bmp)
+
+
    <br><br>
 
 ###<b>RF Design studio</b><br>
