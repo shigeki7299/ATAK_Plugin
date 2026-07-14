@@ -31,9 +31,6 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 <img width="912" height="432" alt="screen電界図" src="https://github.com/user-attachments/assets/b378b7e5-1cb6-4296-a5b9-ae7f360ea714" />
 <br><br>
 ###<b>Tactical suite（開発中）</b><br>
- - ネットワークの監視、捜索、接続を行う。<br>
- - ネットワークをMANETによる自動中継を行い、WIFI Direct等で利用が可能<br>
-<br>
  - PDR測位、スマホセンサーから屋内の位置情報をAIで推定<br>
 <br>
  音声認識によるメニュー、メッセージ入力機能（音声認識AI）<br>
