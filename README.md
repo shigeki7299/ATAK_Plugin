@@ -31,6 +31,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 <img width="912" height="432" alt="screen対向" src="https://github.com/user-attachments/assets/33b4e214-f9a1-4605-9f2a-966d9e34d06b" />
 <img width="912" height="432" alt="screen電界図" src="https://github.com/user-attachments/assets/b378b7e5-1cb6-4296-a5b9-ae7f360ea714" />
 <br><br>
+
 ### <b>Tactical suite（開発中）</b><br>
  - PDR測位、スマホセンサーから屋内の位置情報をAIで推定<br>
 <br>
@@ -41,6 +42,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
  - 生体情報はCallsignの横に表示を行いますので、隊員間で状態把握が可能です。<br>
  - 胸部にEUDを装着した状態から姿勢を検出して状態を把握します。（IMU,気圧センサ等を使います）<br>
 <br>
+
 ### <b>gcs（開発中）</b><br>
  - 無人機の操縦、飛行計画の転送、３D確認<br>
  - 無人機位置の共有
