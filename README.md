@@ -20,7 +20,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
  - パスワードなどを用いて接続を制約することが可能です。<br>
  - セキュリティは、軍用暗号などを用いることが可能です詳細はといあわせください。<br>
  - 画面はテスト用の画面ですので、修正する可能性があります。<br>
-<img width="200" height="100" alt="ScreenShot2" src="https://github.com/user-attachments/assets/c1c7d20b-6fa3-4ae0-abf0-7d7a4e048e6e" />
+<img width="300" height="260" alt="ScreenShot2" src="https://github.com/user-attachments/assets/c1c7d20b-6fa3-4ae0-abf0-7d7a4e048e6e" />
 
    <br><br>
 
