@@ -22,7 +22,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 <img width="1657" height="864" alt="ScreenShot" src="https://github.com/user-attachments/assets/4ce660b5-7ec5-4594-8c7f-ea035437e45b" />
    <br><br>
 
-### <b>RF Design studio</b><br>
+### <b>RF Design studio</b><br> 
  - 電波解析を行うプラグインです。<br>
  - 電界図、全系通信解析、対向通信、評定図が可能です。<br>
  
