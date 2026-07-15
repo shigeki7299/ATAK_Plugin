@@ -9,6 +9,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
  - 全世界の気象情報を取得できます。
 <img width="1824" height="864" alt="screen" src="https://github.com/user-attachments/assets/0dc9b172-c3f7-4612-956c-bfd569840e77" />
 <br><br>
+
 ### <b>MANET</b><br>
  - MANETを構成するプラグインです<br>
  - 現在対応無線 WIFI Awareに対応しており、AP不要<br>
