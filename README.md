@@ -67,7 +67,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 ### <b>MANET Gateway</b><br>
  - localhostのデータを外部ネットワークへ中継を行う<br>
  - ATAK関連及びPushToTalkの情報共有へ対応<br>
- <img width="1080" height="2280" alt="Screenshot_20260720_024952" src="https://github.com/user-attachments/assets/e31e1554-895a-4124-9499-cb0ed43dd5d0" />
+ <img width="432" height="912" alt="Screenshot_20260720_024952" src="https://github.com/user-attachments/assets/e31e1554-895a-4124-9499-cb0ed43dd5d0" />
 
  <br>
 
