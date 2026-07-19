@@ -45,10 +45,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
  - 胸部にEUDを装着した状態から姿勢を検出して状態を把握します。（IMU,気圧センサ等を使います）<br>
 <br>
 
-### <b>gcs（開発中）</b><br>
- - 無人機の操縦、飛行計画の転送、３D確認<br>
- - 無人機位置の共有
- <br>
+
 
 
 ### <b>TAK Gateway（未試験）</b><br>
@@ -70,7 +67,12 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
  <img width="345" height="729" alt="Screenshot_20260720_024952" src="https://github.com/user-attachments/assets/e31e1554-895a-4124-9499-cb0ed43dd5d0" />
 
  <br>
+### <b>QGroundContllre</b><br>
+ - 無人機の操縦、飛行計画の転送、３D確認<br>
+ - 無人機位置の共有
 
+ 
+ <br>
 
 ### <b>TAK_BEACON</b><br>
  - 位置情報送信するのみアプリです。<br>
