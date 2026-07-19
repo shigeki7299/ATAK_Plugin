@@ -69,9 +69,8 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
  <br>
 ### <b>QGroundContllre</b><br>
  - 無人機の操縦、飛行計画の転送、３D確認<br>
- - 無人機位置の共有
-
- 
+ - 無人機位置の共有<br>
+ - ATAK連携が可能なGCS<br> 
  <br>
 
 ### <b>TAK_BEACON</b><br>
