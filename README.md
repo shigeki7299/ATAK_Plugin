@@ -1,4 +1,3 @@
-<img width="1080" height="2280" alt="Screenshot_20260720_025358" src="https://github.com/user-attachments/assets/79cabaf5-62f3-46bf-b2fc-b7cff710c4af" />
 プロトタイプで作ったのもののため機種や機能試験を別途実施するのが望ましいです。<br>
 ATAKの認証でうまく動作しない場合は、本説明の最後に対応するATAK 5.5.1があるので利用ください。<br>
 内容により公開していないプラグインがあります。必要な方は作者に連絡してください。<br>
@@ -76,6 +75,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 ### <b>TAK_BEACON</b><br>
  - 位置情報送信するのみアプリです。<br>
  - 安価な端末にインストールし運用しすることで、物品改修や装置の位置を収集できるためIoTデバイスとして利用に適します。<br>
+<img  width="345" height="729" alt="Screenshot_20260720_025358" src="https://github.com/user-attachments/assets/79cabaf5-62f3-46bf-b2fc-b7cff710c4af" />
 
  <br>
  
