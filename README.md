@@ -76,7 +76,6 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 ### <b>TAK_BEACON</b><br>
  - 位置情報送信するのみアプリです。<br>
  - 安価な端末にインストールし運用しすることで、物品改修や装置の位置を収集できるためIoTデバイスとして利用に適します。<br>
- <img width="345" height="729"  alt="Screenshot_20260720_025358" src="https://github.com/user-attachments/assets/a37c386c-a8cd-43c7-833e-81fc995bede7" />
 
  <br>
  
