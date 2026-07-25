@@ -5,10 +5,10 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
  - 米軍教範、NATO標準化文書（公開文書）に基づく、目標設定、CAS要求、火力要求、任務設定、火砲計算（計算式調査中）、兵器リスト<br>
  - 目標解析において兵器諸元により、誤差、危険地域などを解析して表示できます。<br>
  - 目標管理や処置を行い、チームで共有が可能です<br>
-<img width="2280" height="1080" alt="Screenshot_20260726_010404" src="https://github.com/user-attachments/assets/cf213da2-1740-4c0d-ab01-e46253888adb" />
-<img width="2280" height="1080" alt="Screenshot_20260726_010321" src="https://github.com/user-attachments/assets/232cd217-2377-4997-afe7-d93aaf522ce2" />
-<img width="2280" height="1080" alt="Screenshot_20260726_010233" src="https://github.com/user-attachments/assets/42c53b6b-32de-4763-8357-033f3791169e" />
-<img width="2280" height="1080" alt="Screenshot_20260726_010433" src="https://github.com/user-attachments/assets/81c18bfc-14c0-4332-9733-8cceb2d87b3d" />
+<img width="2280" height="1080" alt="Screenshot_20260726_010433" src="https://github.com/user-attachments/assets/4bfe29de-527b-42ff-911c-873fe7ca6cee" />
+<img width="2280" height="1080" alt="Screenshot_20260726_010404" src="https://github.com/user-attachments/assets/5258e98a-2dc7-4f67-8a49-34e9871a96d4" />
+<img width="2280" height="1080" alt="Screenshot_20260726_010321" src="https://github.com/user-attachments/assets/76291eb5-0c12-453a-9375-9d179903dd82" />
+<img width="2280" height="1080" alt="Screenshot_20260726_010233" src="https://github.com/user-attachments/assets/25cf9d6a-483d-4f46-887d-a90b56f00824" />
 
 
 <br><br>
