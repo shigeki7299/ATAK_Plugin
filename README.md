@@ -1,5 +1,6 @@
 # ATAK_Plugin<br>
-I develop and release plugins that run on ATAK.ATAKで動作するプラグインを開発して公開しています。 <br>
+I develop and release plugins that run on ATAK. <br>
+ATAKで動作するプラグインを開発して公開しています。 <br>
 
 # 概要
 プロトタイプで作ったのもののため機種や機能試験を別途実施するのが望ましいです。<br>
