@@ -11,7 +11,8 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
  - 標準機能のルート（車両・徒歩）で、普通の車両ナビと同じように、道路沿いに経路を検索します。<br>
  - 道路データは2026年の日本のデータを利用しています。<br>
  - ＨＥＬＰに、道路ネットワークデータの保存先を記載しています。逐次追加することが可能です。<br>
-   <img width="2280" height="1080" alt="Screenshot_20260927_003321" src="https://github.com/user-attachments/assets/27822c6c-66c7-49e4-9562-b7324d9acd20" /><br>
+   <img width="2280" height="1080" alt="Screenshot_20260927_003321" src="https://github.com/user-attachments/assets/8513dcb2-4388-4e22-9d4a-049baf78485e" />
+<br>
 
 <br>
 ### <b>FO Tool</b><br>
