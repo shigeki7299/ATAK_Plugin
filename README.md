@@ -14,7 +14,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
    <img width="2280" height="1080" alt="Screenshot_20260927_003321" src="https://github.com/user-attachments/assets/8513dcb2-4388-4e22-9d4a-049baf78485e" />
 <br>
 <br>
-### <b>FO Tool Relese 20260723 update 20260919</b><br>
+### <b>FO Tool</b><br>
  - 米軍教範、NATO標準化文書（公開文書）に基づく、目標設定、CAS要求、火力要求、任務設定、火砲計算（計算式調査中）、兵器リスト<br>
  - 目標解析において兵器諸元により、誤差、危険地域などを解析して表示できます。<br>
  - 目標管理や処置を行い、チームで共有が可能です<br>
