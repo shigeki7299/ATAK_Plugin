@@ -101,6 +101,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 ### <b>TAK_BEACON</b><br>
  - 位置情報送信するのみアプリです。<br>
  - 安価な端末にインストールし運用しすることで、物品改修や装置の位置を収集できるためIoTデバイスとして利用に適します。<br>
+ - ATAKにて物品管理（ヘリコプター、戦車、車両、火砲）の管理に鹵獲のリスクを抑えて利用できます。
 <img  width="345" height="729" alt="Screenshot_20260720_025358" src="https://github.com/user-attachments/assets/79cabaf5-62f3-46bf-b2fc-b7cff710c4af" />
 
  <br>
@@ -108,10 +109,8 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 ### <b>PushToTalk2</b><br>
  - 従来のPushToTalkと異なるアルゴリズムで構築してます。<br>
  - <b>最大１０つの系を登録して、同時に２系を取り扱いが可能です。（多所多系）</b><br>
- - 音声圧縮を従来の1/6以下にしていますので長距離通信にも対応します。<br>
+ - 音声圧縮を従来PCMの1/6以下にしていますので長距離通信にも対応します。<br>
  - 音声デバイス制御を再構築し、骨伝導のボタンでPTT制御できます。<br>
- - AndroidNSDの制御を全て削除して、相手の認証せずに音声を発信します。<br>
- - Mumbleサーバーへの接続は画面のみで処理はしないため、外部サーバーへの接続はしません。<br>
 <img width="912" height="432" alt="screen" src="https://github.com/user-attachments/assets/830c98b2-c0ea-4f81-9463-e3b91910480c" />
 <img width="30%" height="30%" alt="screen設定" src="https://github.com/user-attachments/assets/aa5a9d18-acfb-4144-9678-2b06e57f151f"  />
 
