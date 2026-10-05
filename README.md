@@ -8,7 +8,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 内容により公開していないプラグインがあります。必要な方は作者に連絡してください。<br><br>
 <br>
 
-<h2> ATAK Plugin<br>
+<h2> ATAK Plugin</h2><br>
 <hr>
 　1.行動用 plugin
 　・Compass2　　　　　ランドナビゲーションツール　<br>
