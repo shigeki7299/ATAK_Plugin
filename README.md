@@ -19,9 +19,9 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 　・RFSimulator       電波伝搬解析用<br>
 　・PushToTalk2　　　 サーバレスでトランシーバアプリ（多所多系）<br>
 　・MANET Gateway　　 ネットワークの監視及びAearwareの自動構成、ネットワーク自動切換え<br><br>
- 4.支援ツール　<br>
+  4.支援ツール　<br>
 　・TAK_BEACON        ビーコン装置<br><br>
- 5.試験用ATAK        ATAK Civあるいは、このATAKを利用してください。<br> 
+  5.試験用ATAK        ATAK Civあるいは、このATAKを利用してください。<br> 
 <br>
 <h2> ATAK Plugin</h2>>
 ## 行動用プラグイン<br>
