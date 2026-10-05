@@ -1,12 +1,30 @@
-# ATAK_Plugin<br>
+<h1>ATAK_Plugin<br>
 I develop and release plugins that run on ATAK. <br>
 ATAKで動作するプラグインを開発して公開しています。 <br>
 
-# 概要
+<h2>概要<br>
 Galaxy Note、S21にてプロトタイプで作ったのもです。<br>
 ATAKの認証でうまく動作しない場合は、本説明の最後に対応するATAK 5.5.1があるので利用ください。<br>
-内容により公開していないプラグインがあります。必要な方は作者に連絡してください。<br>
+内容により公開していないプラグインがあります。必要な方は作者に連絡してください。<br><br>
 <br>
+
+<h2> ATAK Plugin<br>
+<hr>
+　1.行動用 plugin
+　・Compass2　　　　　ランドナビゲーションツール　<br>
+　・ルート再計算　　　カーナビ<br>
+　・Fire Tool         火力誘導アプリ<br><br>
+　2.情報用　Plugin<br>
+　・WindsAlog　　　　 気象データ取得<br><br>
+　3.通信用Plugin<br>
+　・RFSimulator       電波伝搬解析用<br>
+　・PushToTalk2　　　 サーバレスでトランシーバアプリ（多所多系）<br>
+　・MANET Gateway　　 ネットワークの監視及びAearwareの自動構成、ネットワーク自動切換え<br><br>
+  4.支援ツール
+　・TAK_BEACON        ビーコン装置<br>
+  5.試験用ATAK        ATAK Civあるいは、このATAKを利用してください。<br> 
+<br>
+
 # ATAK Plugin<br>
 ## 行動用プラグイン<br>
 ### <b>ランナビツール：Compass2</b><br>
