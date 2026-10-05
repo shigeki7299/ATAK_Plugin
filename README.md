@@ -23,8 +23,8 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 　・TAK_BEACON        ビーコン装置<br><br>
  5.試験用ATAK        ATAK Civあるいは、このATAKを利用してください。<br> 
 <br>
-<h2> ATAK Plugin</h2>>
-## 行動用プラグイン<br>
+<h2> ATAK Plugin</h2>
+<h3>行動用プラグイン</h3><br>
 ### <b>ランナビツール：Compass2</b><br>
   - ランドナビゲーション用のコンパス<br>
   - 位置情報と時刻に応じ変化する<b>真北（TN）</b>と磁北（MN）に対応<br>
