@@ -8,14 +8,15 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 内容により公開していないプラグインがあります。必要な方は作者に連絡してください。<br>
 <br>
 # ATAK Plugin<br>
-## 行動<br>
+## 行動用プラグイン<br><br>
 ### <b>ランナビツール：Compass2</b><br>
   - ランドナビゲーション用のコンパス<br>
   - 位置情報と時刻に応じ変化する<b>真北（TN）</b>と磁北（MN）に対応<br>
   - 表示のタップで、°→mil→radへ変更、AGL,MGL切り替え表示<br>
   - 基準標高を手動で設定した場合は、気圧計で対地高度をシアンで表示します。<br>
  <img width="912" height="432" alt="screen" src="https://github.com/user-attachments/assets/6c33b012-edb7-4d05-9b32-5d09add607e6" />
-<br><br>
+<br>
+<br>
 ### <b>ルート再計算　Relese 20260927</b><br>
  - 標準機能のルート（車両・徒歩）で、ルートを設定します。
  - ルートを再計算を行い、普通の車両ナビと同じように、2026年の日本のデータを利用して道路沿いに経路を検索します。<br>
@@ -24,8 +25,19 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
  - リストには到着予想時間を表示します。
  - HELPに、道路ネットワークデータの保存先を記載しています。逐次追加することが可能です。<br>
    <img width="2280" height="1080" alt="Screenshot_20260927_003321" src="https://github.com/user-attachments/assets/8513dcb2-4388-4e22-9d4a-049baf78485e" />
-<br><br>
-
+<br>
+### <b>活動支援ツール：Tactical suite（開発中）</b><br>
+ - PDR測位、スマホセンサーから屋内の位置情報をAIで推定<br>
+<br>
+ 音声認識によるメニュー、メッセージ入力機能（音声認識AI）<br>
+ チャット受信時に自動読み上げ<br>
+<br>
+ - 生体情報の把握、警告機能及び送信<br>
+ - 生体情報はCallsignの横に表示を行いますので、隊員間で状態把握が可能です。<br>
+ - 胸部にEUDを装着した状態から姿勢を検出して状態を把握します。（IMU,気圧センサ等を使います）<br>
+<br>
+<br>
+## 火力制御用プラグイン<br>
 ### <b>火力誘導アプリ：FO Tool　Relese 20260730</b><br>
  - 米軍教範、NATO標準化文書（公開文書）に基づく、目標設定、CAS要求、火力要求、任務設定、火砲計算（計算式調査中）、兵器リスト<br>
  - 目標解析において兵器諸元により、誤差、危険地域などを解析して表示できます。<br>
@@ -37,7 +49,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 <img width="2280" height="1080" alt="Screenshot_20260726_010321" src="https://github.com/user-attachments/assets/76291eb5-0c12-453a-9375-9d179903dd82" />
 <img width="2280" height="1080" alt="Screenshot_20260726_010233" src="https://github.com/user-attachments/assets/25cf9d6a-483d-4f46-887d-a90b56f00824" />
 <br><br>
-
+## 情報用プラグイン<br>
 ### <b>気象データ取得アプリ：WindsAloft</b><br>
  - Open-Meteroから<b>気象情報を取得</b>できるプラグインを開発しました。<br>
  - Importを選択し、特定のアイコンを選択すると座標から適切なデータを取得します<br>
@@ -46,7 +58,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
  - 全世界の気象情報を取得できます。
 <img width="1824" height="864" alt="screen" src="https://github.com/user-attachments/assets/0dc9b172-c3f7-4612-956c-bfd569840e77" />
 <br><br>
-
+## 通信関連プラグイン<br>
 ### <b>MANET</b><br>
  - MANETを構成するプラグインです<br>
  - 現在対応無線 WIFI Awareに対応しており、AP不要<br>
@@ -70,16 +82,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 <img width="912" height="432" alt="screen電界図" src="https://github.com/user-attachments/assets/b378b7e5-1cb6-4296-a5b9-ae7f360ea714" />
 <br><br>
 
-### <b>活動支援ツール：Tactical suite（開発中）</b><br>
- - PDR測位、スマホセンサーから屋内の位置情報をAIで推定<br>
-<br>
- 音声認識によるメニュー、メッセージ入力機能（音声認識AI）<br>
- チャット受信時に自動読み上げ<br>
-<br>
- - 生体情報の把握、警告機能及び送信<br>
- - 生体情報はCallsignの横に表示を行いますので、隊員間で状態把握が可能です。<br>
- - 胸部にEUDを装着した状態から姿勢を検出して状態を把握します。（IMU,気圧センサ等を使います）<br>
-<br>
+
 <br>
 
 
