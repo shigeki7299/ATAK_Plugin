@@ -9,19 +9,19 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 <br>
 
 <h2> ATAK Plugin</h2>
-　1.行動用 plugin　<br>
+1.行動用 plugin　<br>
 　・Compass2　　　　　ランドナビゲーションツール　<br>
 　・ルート再計算　　　カーナビ<br>
 　・Fire Tool         火力誘導アプリ<br><br>
-　2.情報用　Plugin<br>
+2.情報用　Plugin<br>
 　・WindsAlog　　　　 気象データ取得<br><br>
-　3.通信用Plugin<br>
+3.通信用Plugin<br>
 　・RFSimulator       電波伝搬解析用<br>
 　・PushToTalk2　　　 サーバレスでトランシーバアプリ（多所多系）<br>
 　・MANET Gateway　　 ネットワークの監視及びAearwareの自動構成、ネットワーク自動切換え<br><br>
-  4.支援ツール　<br>
+ 4.支援ツール　<br>
 　・TAK_BEACON        ビーコン装置<br><br>
-  5.試験用ATAK        ATAK Civあるいは、このATAKを利用してください。<br> 
+ 5.試験用ATAK        ATAK Civあるいは、このATAKを利用してください。<br> 
 <br>
 <h2> ATAK Plugin</h2>>
 ## 行動用プラグイン<br>
