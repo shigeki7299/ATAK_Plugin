@@ -1,8 +1,8 @@
-<h1>ATAK_Plugin<br>
+<h1>ATAK_PluginM</h1><br>
 I develop and release plugins that run on ATAK. <br>
 ATAKで動作するプラグインを開発して公開しています。 <br>
 
-<h2>概要<br>
+<h2>概要</h2><br>
 Galaxy Note、S21にてプロトタイプで作ったのもです。<br>
 ATAKの認証でうまく動作しない場合は、本説明の最後に対応するATAK 5.5.1があるので利用ください。<br>
 内容により公開していないプラグインがあります。必要な方は作者に連絡してください。<br><br>
