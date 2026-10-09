@@ -11,7 +11,7 @@ ATAKの認証でうまく動作しない場合は、本説明の最後に対応�
 <h2> ATAK Plugin</h2>
 1.行動用 plugin　<br>
 　・Compass2　　　　　ランドナビゲーションツール　<br>
-　・ルート再計算　　　カーナビ<br>
+　・Navigation 　　　 カーナビ<br>
 　・Fire Tool         火力誘導アプリ<br><br>
 2.情報用　Plugin<br>
 　・WindsAlog　　　　 気象データ取得<br><br>
